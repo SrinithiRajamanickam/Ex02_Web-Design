@@ -19,10 +19,36 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+    <head>
+        toppers list
+    </head>
+    <body>
+        <ul>
+            
+            <li>vaishh</li>
+            <li>rithikaaa</li>
+            <li>pragyaa</li>
+            <li>harinii</li>
+            <li>rajuu</li>
+        
+            
+        </ul>
+        <ol>
+            <li>vaishumaa</li>
+            <li>nandyy</li>
+            <li>vichuvaa</li>
+            <li>akasheyy</li>
+            <li>bathimaa</li>
+        </ol>
 
+    </body>
+</html>
+```
 
 ## OUTPUT
 
-
+![alt text](<Screenshot (38).png>)
 ## RESULT
   List of Departments in an Institution is created successfully.
